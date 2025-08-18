@@ -1,5 +1,5 @@
 title: Serhat Beyenir # name of the site
-url: https://serhatbe.github.io/ # root address of the site
+url: https://volumen25.github.io/ # root address of the site
 plugins:
   - jekyll-relative-links
 relative_links:
