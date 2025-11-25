@@ -8,4 +8,4 @@ I consider mastering a profession as a continuum, not a series of schooling expe
 
 ### Technology Integration
 
-Technology is a key element of my teaching approach, not as a replacement for sound pedagogy but as a tool to enhance it. I use learning management systems, simulations, and engineering software to support diverse learning needs and increase engagement. My experience with online and hybrid delivery has underscored the importance of clarity, structure, and accessibility. I also emphasize digital literacy to prepare students for the thoughtful and effective use of technology in their professional lives.
+Technology is a key element of my teaching approach, not as a replacement for sound pedagogy but as a tool to enhance it. I use learning management systems, simulations, and engineering software to support diverse learning needs and increase engagement. My experience with online and hybrid delivery has underscored the importance of clarity and structure. I also emphasize digital literacy to prepare students for the thoughtful and effective use of technology in their professional lives.
