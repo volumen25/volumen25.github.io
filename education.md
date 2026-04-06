@@ -9,13 +9,13 @@
 - Common Rail + SaCoSone – Everllence Academy, Germany, 2025  
 - Management Essentials – Harvard Business School Online, 2022  
 - ISO 9001:2015 Internal Auditor – British Standards Institution, 2021  
-- Kongsberg Thermal Power Plant Simulator Instructor – Kalmar Maritime Academy, Sweden, 2014
-- Kongsberg Propulsion Plant Simulator Instructor – BCIT, Canada 2001  
+- Kongsberg Power Plant Simulator Instructor – Kalmar Maritime Academy, Sweden, 2014
+- Kongsberg Propulsion Plant Simulator Instructor – BCIT, Canada, 2001  
 - Chief Engineer – STCW III/2 – Transport Canada, 2000  
 
 ## Interests
 
-- Open educational resources (OER)  
+- Open educational resources  
 - Web-based distance education  
 - Simulator-based training for engineers  
 - Flipped (inverted) classroom models  
