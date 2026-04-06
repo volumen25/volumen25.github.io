@@ -1,3 +1,5 @@
+## Open Educational Resources
+
 The following books were authored during my teaching at BCIT and are freely available under open licenses.
 
 - [Applied Mechanics, 2026](https://amt.volumen.ca/)  
