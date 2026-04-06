@@ -1,4 +1,4 @@
-# Teaching Philosophy  
+## Teaching Philosophy  
 
 My method of teaching can be characterized by helping students build confidence through what they are learning, progressively challenging them with new concepts and confronting them with appropriately difficult problems toward the end of the teaching process. My primary function in this demanding process is to initiate students into knowledge building and guide their exploration of new information from which they can expand their existing learning capacity. Ultimately, I aim to create an engaging and active learning environment in which they can develop mental toughness, critical thinking skills and disciplined perspectives on real life.
 

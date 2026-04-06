@@ -1,4 +1,4 @@
-# Marine Engineering  
+## Marine Engineering  
 
 I currently teach Marine Engineering courses at the BCIT Marine Campus in North Vancouver.
 
