@@ -1,15 +1,17 @@
-## Marine Engineering  
+## Courses
+
+### Marine Engineering  
 
 I currently teach Marine Engineering courses at the BCIT Marine Campus in North Vancouver.
 
-## Power & Process Engineering  
+### Power & Process Engineering  
 
 - Thermal Power Plant Simulator  
 - Heat Transfer  
 - Engineering Laboratory  
 - Computer Technology  
 
-## Power Engineering  
+### Power Engineering  
 
 - First Class Part A – Paper 1 – CORR  
 - First Class Part A – Paper 2 – CORR  
