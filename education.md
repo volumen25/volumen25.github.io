@@ -1,12 +1,10 @@
 ## Education
 
-### Post-secondary
-
 - Master of Education – Athabasca University, 2011  
 - Provincial Instructor Diploma – Vancouver Community College, 2003  
 - B.Sc. in Marine Engineering – Yildiz Technical University, 1989  
 
-### Certificates
+## Certificates
 
 - Common Rail + SaCoSone – Everllence Academy, Germany, 2025  
 - Management Essentials – Harvard Business School Online, 2022  
@@ -15,7 +13,7 @@
 - Kongsberg Propulsion Plant Simulator Instructor – BCIT, Canada, 2001  
 - Chief Engineer – STCW III/2 – Transport Canada, 2000  
 
-### Interests
+## Interests
 
 - Open educational resources  
 - Web-based distance education  
