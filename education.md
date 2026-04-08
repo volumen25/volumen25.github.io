@@ -1,4 +1,7 @@
-## Education
+---
+title: Education  
+layout: post   # or whatever layout you use
+---
 
 - Master of Education – Athabasca University, 2011  
 - Provincial Instructor Diploma – Vancouver Community College, 2003  

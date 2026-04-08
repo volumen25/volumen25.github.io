@@ -1,4 +1,7 @@
-## Open Educational Resources
+---
+title: Open Educational Resources  
+layout: post   # or whatever layout you use
+---
 
 The following books were authored during my teaching at BCIT and are freely available under open licenses.
 
