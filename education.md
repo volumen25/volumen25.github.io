@@ -1,6 +1,6 @@
 ---
 title: Education  
-layout: post   # or whatever layout you use
+layout: post
 ---
 
 - Master of Education – Athabasca University, 2011  
