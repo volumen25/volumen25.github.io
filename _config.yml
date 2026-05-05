@@ -1,5 +1,6 @@
 title: Serhat Beyenir # name of the site
-url: https://volumen25.github.io/ # root address of the site
+url: https://study.volumen.ca # root address of the site
+description: "Faculty in Power Engineering and Marine Engineering at BCIT" # meta description
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -14,11 +15,9 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-
 remote_theme: riggraz/no-style-please
-
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
-  back_home_text: ".." # customize text for homepage link in post layout
+  back_home_text: "← Home" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: false # show blog description in home page
