@@ -4,7 +4,10 @@ layout: post
 ---
 ## Marine Engineering  
 
-I currently teach Marine Engineering courses at the BCIT Marine Campus in North Vancouver.
+- Propulsion Plant Simulator  
+- Thermodynamics  
+- Applied Mechanics  
+- Propulsion Engines  
 
 ## Power & Process Engineering  
 
