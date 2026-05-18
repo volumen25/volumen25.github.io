@@ -18,7 +18,7 @@ layout: post
 
 ## Interests
 
-- Open educational resources  
 - Web-based distance education  
 - Simulator-based training for engineers  
+- Open educational resources  
 - Flipped (inverted) classroom models  
