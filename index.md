@@ -2,5 +2,6 @@ I am a faculty member in the Power Engineering Department at the British Columbi
 
 - [Education](education.md)
 - [Philosophy](philosophy.md)
-- [Courses](courses.md)
+- [Fulltime Courses](ft_courses.md)
+- [Distance Education Courses](de_courses.md)
 - [Books](books.md)

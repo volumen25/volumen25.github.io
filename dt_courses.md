@@ -1,27 +1,7 @@
 ---
-title: Fulltime Courses  
+title: Distance Education Courses  
 layout: post
 ---
-
-## 2026-2027 Power & Process Engineering
-
-- Thermal Power Plant Simulator  
-- Heat Transfer
-
-## Marine Engineering  
-
-- Propulsion Plant Simulator  
-- Thermodynamics  
-- Applied Mechanics  
-- Propulsion Engines  
-- Naval Architecture  
-
-## Power & Process Engineering  
-
-- Thermal Power Plant Simulator  
-- Heat Transfer  
-- Engineering Laboratory  
-- Computer Technology  
 
 ## Power Engineering  
 
@@ -47,3 +27,4 @@ layout: post
 - Fourth Class Part B – Steam turbines, Gas turbines, Internal combustion engines  
 - Fifth Class – ​​​​Applied science, Act & Regulations, Codes
 - Refrigeration Plant Operator – Math and Science, Act, Regulations & Codes, Operation and Maintenance  
+- Boiler Safety Awareness
