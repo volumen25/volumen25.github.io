@@ -3,10 +3,10 @@ title: Distance Education Courses
 layout: post
 ---
 
-## Power Engineering  
+## 2026-2027 Power Engineering  
 
 - First Class Part A – Paper 1 – Applied Thermodynamics and Plant Cycles  
-- First Class Part A – Paper 2 – Principles of Applied & Fluid Mechanics  
+- First Class Part A – Paper 2 – Principles of Applied Mechanics & Fluid Mechanics  
 - First Class Part A – Paper 3 – Applied Engineering Technologies  
 - First Class Part A – Paper 4 – Power Plant Operations  
 - First Class Part B – Paper 1 – Legislation and Codes for Industrial Equipment  
@@ -17,7 +17,7 @@ layout: post
 - Second Class Part A – Paper 2 – Thermodynamics & Metallurgy  
 - Second Class Part A – Paper 3 – Boilers, Pumps & Water Treatment  
 - Second Class Part B – Paper 1 – Heat Engines and Prime Movers  
-- Second Class Part B – Paper 2 – Power Plant Systems & Control Instrumentation  
+- Second Class Part B – Paper 2 – Power Plant Systems,  Control & Instrumentation  
 - Second Class Part B – Paper 3 – Industrial & Commercial Refrigeration  
 - Third Class Part A – Paper 1 – Applied Mathematics, Mechanics & Thermodynamics  
 - Third Class Part A – Paper 2 – Safety, Legislation & Codes  
