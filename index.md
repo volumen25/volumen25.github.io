@@ -5,4 +5,4 @@ I am a faculty member in the Power Engineering Department at the British Columbi
 - [Fulltime Courses](ft_courses.md)
 - [Distance Education Courses](de_courses.md)
 - [Books](books.md)
-- [TPPS](TPPS/TPP_Simulator.html)
+- [Thermal Power Plant Simulator](TPPS/K-Sim.html)
