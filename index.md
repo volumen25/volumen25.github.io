@@ -1,4 +1,4 @@
-I am a faculty member in the Power Engineering Department at the British Columbia Institute of Technology (BCIT), with additional teaching in the Marine Engineering Department at the BCIT Marine Campus. Before joining BCIT, I sailed aboard ocean-going vessels, including bulk carriers, product tankers, and crude oil carriers. Outside the classroom, I enjoy reading, music, hiking, and travelling.
+I teach in the Power Engineering Department at the British Columbia Institute of Technology (BCIT) and previously taught in the Marine Engineering Department at the BCIT Marine Campus. Before BCIT, I sailed on bulk carriers, product tankers, and crude oil carriers. Outside the classroom, I enjoy reading, music, hiking, travelling, and solving problems with code.
 
 - [Education](education.md)
 - [Philosophy](philosophy.md)

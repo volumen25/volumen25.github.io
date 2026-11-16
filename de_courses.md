@@ -3,6 +3,10 @@ title: Distance Education Courses
 layout: post
 ---
 
+## 2026 Fall
+
+- POWX3100 Essential Thermal Power Plant Simulation
+
 ## 2026-2027 Power Engineering  
 
 - First Class Part A – Paper 1 – Applied Thermodynamics and Plant Cycles  

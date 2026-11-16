@@ -6,7 +6,7 @@ layout: post
 ## 2026-2027 Power & Process Engineering
 
 - Thermal Power Plant Simulator  
-- Heat Transfer
+- Instrumentation
 
 ## Marine Engineering  
 

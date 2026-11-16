@@ -15,6 +15,7 @@ layout: post
 - Kongsberg Power Plant Simulator Instructor – Kalmar Maritime Academy, Sweden, 2014
 - Kongsberg Propulsion Plant Simulator Instructor – BCIT, Canada, 2001  
 - Chief Engineer – STCW III/2 – Transport Canada, 2000  
+- First Class Marine Engineer – Transport Canada, 2000  
 
 ## Interests
 
